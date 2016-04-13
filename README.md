@@ -1,7 +1,7 @@
 # PageSpeed-Insights-ko
 Korean translation of PageSpeed Insights(https://developers.google.com/speed/docs/insights)
 
-이 번역은 [Georgia Tech Aerospace Systems Design Laboratory](https://www.asdl.gatech.edu) 최선님의 도움을 받고 있습니다.
+이 번역은 [최선](mailto: schoi332@gatech.edu)님의 도움을 받고 있습니다.
 
 ## 목차
 - [개요](./about.md)
@@ -11,7 +11,7 @@ Korean translation of PageSpeed Insights(https://developers.google.com/speed/doc
 - 언어
 
 **Best Practices**
-- 클로져 컴파일러로 자바스크립트 압축하기
+- Closure Compiler로 자바스크립트 압축하기
 - CSS: 모든 선언을 한 번만 하기
 - 자바스크립트 코드 최적화하기
 - 리소스 프리패치하기
