@@ -1,6 +1,7 @@
 # Closure Compiler로 JavaScript 압축하기
 
 저자: Robert Bowdidge, Software Engineer
+
 권장되는 경험: 웹페이지 제작 경험
 
 _역자 주:_
