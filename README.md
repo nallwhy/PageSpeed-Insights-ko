@@ -11,9 +11,9 @@ Korean translation of PageSpeed Insights(https://developers.google.com/speed/doc
 - 언어
 
 **Best Practices**
-- Closure Compiler로 자바스크립트 압축하기
+- Closure Compiler로 Javascript 압축하기
 - CSS: 모든 선언을 한 번만 하기
-- 자바스크립트 코드 최적화하기
+- JavaScript 코드 최적화하기
 - 리소스 프리패치하기
 - 브라우저 리플로우 최소화하기
 - 모바일 네트워크에서의 SPDY 성능

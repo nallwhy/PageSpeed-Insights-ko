@@ -22,7 +22,7 @@ PageSpeed Insights 에 대한 우리의 가장 최근 업데이트는 모바일 
 PageSpeed Insights에 의해 수행된 분석의 전체 결과를 보는데도 아마 관심이 있을 것 같습니다.
 
 ## 피드백을 보내주세요
-PageSpeed Insights에 대해 피드백을 보내주시면 감사하겠습니다. 테스팅 도구나 우리가 추천하는 best practice들에 대해 제안이 있으시다면 [pagespeed-insights-discuss](https://groups.google.com/forum/#!forum/pagespeed-insights-discuss)에 올려주세요.
+PageSpeed Insights에 대해 피드백을 보내주시면 감사하겠습니다. 테스팅 도구나 우리가 권장하는 best practice들에 대해 제안이 있으시다면 [pagespeed-insights-discuss](https://groups.google.com/forum/#!forum/pagespeed-insights-discuss)에 올려주세요.
 
 ## 질문이 있으신가요?
 PageSpeed Insights에 대한 질문이 있으시다면, 저희 [FAQ](https://developers.google.com/speed/docs/insights/faq)를 참조하시거나 [discussion group](https://groups.google.com/forum/#!forum/pagespeed-insights-discuss)에 메시지를 올려주세요.
